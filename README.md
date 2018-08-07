@@ -1,4 +1,5 @@
-# FEniCS implimentation of Electro-chemical model of Li-ion battery
+# Electro-chemical model of Li-ion battery
 
-Continuous Galerkin and Discontinuous Galerkin finite elements
+Implemented using FEniCS Poejct https://fenicsproject.org/
+Continuous and Discontinuous Galerkin finite elements
 
